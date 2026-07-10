@@ -1,9 +1,4 @@
 # AgroNexus 🌱
-**Demo Video**
-
-🌟 **Watch the AgroNexus Demo** 🌟  
-Discover the full potential of AgroNexus in this engaging demo video:  
-👉 [**AgroNexus Demo Video**](https://www.linkedin.com/posts/swanithpidugu_agronexus-agritech-empoweringfarmers-activity-7277375434139299840-hDiP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHfgIMBLoT_wPfluPqxdtSUd15IDEu-iP8)
 
 Don't miss out—see how AgroNexus is transforming agriculture!
 **Project Overview** 
